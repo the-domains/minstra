@@ -1,6 +1,6 @@
 name: Minstra
 favicon: null
-layout_spectrum: 0.20073
+layout_spectrum: 1
 typography_spectrum: 0.6806872223969549
 title: Minstra
 cta:
@@ -22,8 +22,8 @@ color:
     - '#334245'
     - '#7ca2b5'
     - '#67848a'
-  brandStrength: 0.8717695917002857
+  brandStrength: 0.5
   lightness: 0.11268345755524933
-  saturation: 0.6961425780318677
+  saturation: 0.875
   rhythmicContrast: 0.5
 purpose: []
