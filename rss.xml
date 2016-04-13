@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Minstra]]></title>
         <description><![CDATA[Minstra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/minstra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 00:06:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 00:13:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/minstra/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Minstra (@ViceRoyMinstra). Official Twitter of DJ/Prod Minstra™ Soundcloud: ♫ http://t.co/vJtSGc77tF ♈ Vine: https://t.co/qLbWzhTwSm also on IG, FB, SC, Mixcloud, TwitchTV #Minstra. Citizen of the World</p>]]></description>
+            <link>https://twitter.com/ViceRoyMinstra</link>
+            <guid isPermaLink="false">c1d00985-e3dd-4f74-b036-70ce4c4f192b</guid>
+            <pubDate>Wed, 13 Apr 2016 00:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b03c4d-319a-4865-bec6-d434a32baef3.jpg">]]></description>
-            <link>undefinedwelcome-to-the-show/index.html</link>
+            <link>https://thegrid.ai/minstra/welcome-to-the-show/index.html</link>
             <guid isPermaLink="false">de4f60b2-c8ea-4f9c-be75-36f21152fcae</guid>
             <pubDate>Wed, 13 Apr 2016 00:06:17 GMT</pubDate>
         </item>
