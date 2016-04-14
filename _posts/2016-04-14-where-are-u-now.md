@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: 'This is "Where Are U Now" by minstra on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
@@ -40,13 +40,16 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/123987925'
 title: Where Are U Now
-datePublished: '2016-04-14T06:27:04.931Z'
-dateModified: '2016-04-14T06:26:32.164Z'
+datePublished: '2016-04-14T06:28:10.522Z'
+dateModified: '2016-04-14T06:27:47.050Z'
 sourcePath: _posts/2016-04-14-where-are-u-now.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
