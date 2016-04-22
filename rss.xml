@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Minstra]]></title>
         <description><![CDATA[Minstra]]></description>
-        <link>https://thegrid.ai/minstra/</link>
+        <link>http://minstra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 17:21:33 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/minstra/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 00:07:35 GMT</lastBuildDate>
+        <atom:link href="http://minstra.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where Are U Now]]></title>
             <description><![CDATA[<article><h1>Where Are U Now</h1><p>This is "Where Are U Now" by minstra on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4dee011cc778062f85ab921226cb0bf8a900fb9.jpg"></article>]]></description>
@@ -15,8 +15,15 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The world will little note, nor long remember what we say here, but it should never forget what we did here #truthpic.twitter.com/vvAObyF3on" src="https://pbs.twimg.com/media/Cgl7HyPWMAAe5Hu.jpg:large">]]></description>
+            <link>https://twitter.com/ViceRoyMinstra/status/723245433900929028</link>
+            <guid isPermaLink="false">d7e4d731-e05a-435e-9f9e-95cb8edec9e9</guid>
+            <pubDate>Fri, 22 Apr 2016 00:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f39493-3dbb-4c02-a548-fbb0bea5aac7.jpg">]]></description>
-            <link>https://thegrid.ai/minstra/d329df5d-0304-4cef-b971-f9186277f544/index.html</link>
+            <link>http://minstra.com/d329df5d-0304-4cef-b971-f9186277f544/index.html</link>
             <guid isPermaLink="false">d329df5d-0304-4cef-b971-f9186277f544</guid>
             <pubDate>Thu, 14 Apr 2016 17:20:14 GMT</pubDate>
         </item>
