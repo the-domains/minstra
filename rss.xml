@@ -4,7 +4,7 @@
         <description><![CDATA[Minstra]]></description>
         <link>http://minstra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 03:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 12:57:26 GMT</lastBuildDate>
         <atom:link href="http://minstra.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where Are U Now]]></title>
@@ -12,6 +12,12 @@
             <link>https://vimeo.com/123987925</link>
             <guid isPermaLink="false">26f4ecd7-f950-4eb7-a896-af4e59a61219</guid>
             <pubDate>Thu, 14 Apr 2016 06:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/ViceRoyMinstra</link>
+            <guid isPermaLink="false">eba7230e-2072-4ce2-a067-c2a5945f5350</guid>
+            <pubDate>Fri, 29 Apr 2016 12:57:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
