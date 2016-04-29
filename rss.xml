@@ -4,7 +4,7 @@
         <description><![CDATA[Minstra]]></description>
         <link>http://minstra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 12:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:15:43 GMT</lastBuildDate>
         <atom:link href="http://minstra.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where Are U Now]]></title>
@@ -12,6 +12,12 @@
             <link>https://vimeo.com/123987925</link>
             <guid isPermaLink="false">26f4ecd7-f950-4eb7-a896-af4e59a61219</guid>
             <pubDate>Thu, 14 Apr 2016 06:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/ViceRoyMinstra/status/725899530953220096</link>
+            <guid isPermaLink="false">fd8ee033-7ed0-4d6a-bf25-2758b74963cc</guid>
+            <pubDate>Fri, 29 Apr 2016 13:15:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -66,13 +72,6 @@
             <link>https://www.instagram.com/p/_78AGCw8PM/?taken-by=minstra</link>
             <guid isPermaLink="false">c92a88f6-b78a-40a0-a7e8-8a2b071313ca</guid>
             <pubDate>Wed, 13 Apr 2016 03:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Human suffering anywhere should concern us everywhere. We need to cure this cancer that afflicts us all. #Brusselspic.twitter.com/MSThbDHrgE" src="https://pbs.twimg.com/media/CeKXKQNVIAEs4s5.jpg:large">]]></description>
-            <link>https://twitter.com/ViceRoyMinstra/status/712297900076830720</link>
-            <guid isPermaLink="false">28cba573-8b59-4519-9f92-1cc32d78f242</guid>
-            <pubDate>Wed, 13 Apr 2016 01:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
